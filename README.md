@@ -13,24 +13,27 @@
 
 ## 📌 Descripción del Proyecto
 
-Este repositorio contiene la resolución de los ejercicios de la **Fase 1 de Programación Orientada a Objetos**[span_0](start_span)[span_0](end_span), estructurados para afianzar la lógica de programación y el diseño modular en Java.
+Este repositorio contiene la resolución de los ejercicios de la **Fase 1 de Programación Orientada a Objetos (POO)**[span_5](start_span)[span_5](end_span), enfocados en la aplicación de clases, constructores, arreglos de objetos y control de flujo en **Java**.
 
 ---
 
 ## 📂 Ejercicios Desarrollados
 
-| Archivo | Tema / Contenido | Estado |
+A continuación se enlistan los códigos prácticos implementados en este repositorio:
+
+| Archivo | Descripción del Ejercicio / Lógica POO | Estado |
 | :--- | :--- | :---: |
-| 📄 **`Ejercicio1.java`**[span_1](start_span)[span_1](end_span) | Lógica inicial y estructuras básicas | ✅ Completado |
-| 📄 **`Ejercicio2.java`**[span_2](start_span)[span_2](end_span) | Condicionales y flujo de control | ✅ Completado |
-| 📄 **`Ejercicio3.java`**[span_3](start_span)[span_3](end_span) | Bucles y métodos orientados a objetos | ✅ Completado |
-| 📄 **`Ejercicio4.java`**[span_4](start_span)[span_4](end_span) | Clases, métodos y modularidad | ✅ Completado |
-| 📄 **`Ejercicio5.java`**[span_5](start_span)[span_5](end_span) | Integración final y validaciones | ✅ Completado |
+| 📄 [Ejercicio1.java](./Ejercicio1.java)[span_6](start_span)[span_6](end_span) | Gestión de estudiantes, cálculo de promedios y clasificación de notas | ✅ Completado |
+| 📄 [Ejercicio2.java](./Ejercicio2.java)[span_7](start_span)[span_7](end_span) | Control de inventario de productos, stock y alertas de reposición | ✅ Completado |
+| 📄 [Ejercicio3.java](./Ejercicio3.java)[span_8](start_span)[span_8](end_span) | Registro de mascotas, atributos, pesos y referencias de objetos | ✅ Completado |
+| 📄 [Ejercicio4.java](./Ejercicio4.java)[span_9](start_span)[span_9](end_span) | Simulación de cuentas bancarias y acumulación de saldos por mes | ✅ Completado |
+| 📄 [Ejercicio5.java](./Ejercicio5.java)[span_10](start_span)[span_10](end_span) | Gestión de biblioteca, libros disponibles y control de socios | ✅ Completado |
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y Entorno
 
-- **Lenguaje:** Java ☕[span_6](start_span)[span_6](end_span)
-- **Entorno:** Visual Studio Code 💻
+- **Lenguaje principal:** Java ☕[span_11](start_span)[span_11](end_span)
+- **Entorno de desarrollo:** Visual Studio Code 💻
 - **Control de versiones:** GitHub 🐙
+

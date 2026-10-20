@@ -13,7 +13,7 @@
 
 ## 📌 Descripción del Proyecto
 
-Este repositorio contiene la resolución de los ejercicios de la **Fase 1 de Programación Orientada a Objetos (POO)**[span_3](start_span)[span_3](end_span), enfocados en la aplicación de clases, constructores, arreglos de objetos y control de flujo en **Java**.
+Este repositorio contiene la resolución de los ejercicios de la **Fase 1 de Programación Orientada a Objetos (POO)**, enfocados en la aplicación de clases, constructores, arreglos de objetos y control de flujo en **Java**.
 
 ---
 
@@ -23,17 +23,16 @@ A continuación se enlistan los códigos prácticos implementados en este reposi
 
 | Archivo | Descripción del Ejercicio / Lógica POO | Estado |
 | :--- | :--- | :---: |
-| 📄 **Ejercicio1.java**[span_4](start_span)[span_4](end_span) | Gestión de estudiantes, cálculo de promedios y clasificación de notas | ✅ Completado |
-| 📄 **Ejercicio2.java**[span_5](start_span)[span_5](end_span) | Control de inventario de productos, stock y alertas de reposición | ✅ Completado |
-| 📄 **Ejercicio3.java**[span_6](start_span)[span_6](end_span) | Registro de mascotas, atributos, pesos y referencias de objetos | ✅ Completado |
-| 📄 **Ejercicio4.java**[span_7](start_span)[span_7](end_span) | Simulación de cuentas bancarias y acumulación de saldos por mes | ✅ Completado |
-| 📄 **Ejercicio5.java**[span_8](start_span)[span_8](end_span) | Gestión de biblioteca, libros disponibles y control de socios | ✅ Completado |
+| 📄 **Ejercicio1.java** | Gestión de estudiantes, cálculo de promedios y clasificación de notas | ✅ Completado |
+| 📄 **Ejercicio2.java** | Control de inventario de productos, stock y alertas de reposición | ✅ Completado |
+| 📄 **Ejercicio3.java** | Registro de mascotas, atributos, pesos y referencias de objetos | ✅ Completado |
+| 📄 **Ejercicio4.java** | Simulación de cuentas bancarias y acumulación de saldos por mes | ✅ Completado |
+| 📄 **Ejercicio5.java** | Gestión de biblioteca, libros disponibles y control de socios | ✅ Completado |
 
 ---
 
 ## 🛠️ Tecnologías y Entorno
 
-- **Lenguaje principal:** Java ☕[span_9](start_span)[span_9](end_span)
+- **Lenguaje principal:** Java ☕
 - **Entorno de desarrollo:** Visual Studio Code 💻
 - **Control de versiones:** GitHub 🐙
-
